@@ -11,7 +11,7 @@ layout: default
     members: [
       {name: 'Vinhjaxt', link: 'https://vinhjaxt.github.io/'},
       {name: 'Tuedenn', link: 'https://github.com/tuedenn081298'},
-      {name: '#', link: '#'},
+      {name: 'Starvhb', link: 'https://github.com/starvhb'},
       {name: '#', link: '#'},
       {name: '#', link: '#'}
     ]
