@@ -1,2 +1,2 @@
-# vietnamesecodelovers.github.io
-https://vietnamesecodelovers.github.io website
+# We're Vietnamese Code Lovers
+Please checkout https://vietnamesecodelovers.github.io
