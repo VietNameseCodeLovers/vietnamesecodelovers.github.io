@@ -3,8 +3,9 @@ layout: default
 ---
 
 # [#](#write-up-ctf)Write-up CTF games
-
-![](/assets/NightSt0rm.png =300x300)
+<p align="center">
+<img src="/assets/NightSt0rm.png" width="40%" />
+</p>
 ## [About us](about-us)
 
 
