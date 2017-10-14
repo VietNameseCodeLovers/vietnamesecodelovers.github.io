@@ -12,7 +12,7 @@ layout: default
       {name: 'Vinhjaxt', link: 'https://vinhjaxt.github.io/'},
       {name: 'Tuedenn', link: 'https://github.com/tuedenn081298'},
       {name: 'Starvhb', link: 'https://github.com/starvhb'},
-      {name: '#', link: '#'},
+      {name: 'Hungdv98', link: 'https://github.com/hungdv98'},
       {name: '#', link: '#'}
     ]
   };
